@@ -1,4 +1,4 @@
-## 백엔드 개발에 열망을 갖고 있는 백민기입니다🔥
+## 백엔드 개발에 재미를 느끼는 백민기입니다.😄
 
 👋 Hi there!   
 I'm a `Back-End engineer` who is eager to resolve inconvenience of daily life and business issue by Programming.   
