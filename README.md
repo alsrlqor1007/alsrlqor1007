@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mingi's%20Github&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mingi's%20Github&fontSize=60)
 
 ## 백엔드 개발에 재미를 느끼는 백민기입니다.😄
 
