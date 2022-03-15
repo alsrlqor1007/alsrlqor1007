@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mingi's%20Github&fontSize=60)
-
-## 백엔드 개발에 재미를 느끼는 백민기입니다.😄
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=백엔드%20개발이%20재밌는%20백민기입니다😄&fontSize=30)
 
 👋 Hi there!   
 I'm a `Back-End engineer` who is eager to resolve inconvenience of daily life and business issue by Programming.   
