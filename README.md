@@ -9,7 +9,7 @@ Looking forward to working as Server developer!
 Except for programming,   
 I also enjoy singing🎤, coffee time☕, watching Marvel movies🍿
 
-### <p align="center">🤝 Contact Info</p>
+### <p align="center">📬 Contact Info 📬</p>
 <div align="center">
 <img src="https://img.shields.io/badge/skyup9393@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Dev Blog (updating)-333333?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
@@ -23,8 +23,8 @@ I also enjoy singing🎤, coffee time☕, watching Marvel movies🍿
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> 
-</div>
-
+</div>   
+<br/><br/>
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=alsrlqor1007&show_icons=true&theme=aura_dark" />
 </div>
