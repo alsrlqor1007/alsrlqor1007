@@ -19,3 +19,4 @@ I enjoy singing🎤, coffee time☕, watching Marvel movies🍿
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsrlqor1007&show_icons=true&theme=aura_dark)
