@@ -10,6 +10,9 @@ I also enjoy singing🎤, coffee time☕, watching Marvel movies🍿
 ### <p align="center">📬 Contact Info 📬</p>
 <div align="center">
 <img src="https://img.shields.io/badge/skyup9393@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Dev Blog (updating)-333333?style=flat-square&logo=Notion&logoColor=white"/>
+<a href="https://www.linkedin.com/in/baekend/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+</a>
 </div>
 
 ### <p align="center">⚙️ Tech Stack ⚙️</p>
@@ -21,7 +24,12 @@ I also enjoy singing🎤, coffee time☕, watching Marvel movies🍿
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
-</div>   
+</div>
+
+### <p align="center">🔥 Want to Learn 🔥</p>
+<div align="center">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=GraphQL&logoColor=white"/>
+</div>
 <br/><br/>
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=alsrlqor1007&show_icons=true&theme=aura_dark" />
