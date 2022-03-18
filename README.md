@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=백엔드%20개발이%20재밌는%20백민기입니다😄&fontSize=30)
 
 👋 Hi there!   
-I'm a `Back-End engineer` who is eager to resolve inconvenience of daily life and business issue by Programming.   
+I'm a junior `Back-End engineer` who is eager to resolve inconvenience of daily life and business issue by Programming.   
 Looking forward to working as Server developer!
 
 Except for programming,   
@@ -28,7 +28,7 @@ I also enjoy singing🎤, coffee time☕, watching Marvel movies🍿
 
 ### <p align="center">🔥 Want to Learn 🔥</p>
 <div align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=GraphQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
 </div>
 <br/><br/>
 <div align="center">
