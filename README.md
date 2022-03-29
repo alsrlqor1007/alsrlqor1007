@@ -9,9 +9,12 @@ I also enjoy singing🎤, coffee time☕, watching Marvel movies🍿
 
 ### <p align="center">📬 Contact Info 📬</p>
 <div align="center">
-<img src="https://img.shields.io/badge/skyup9393@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Dev Blog (updating)-333333?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/skyup9393@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="https://mingibaekend.notion.site/MINGI-s-TIL-Dev-Blog-c2c10c752e7a42c690d9e1d76bc7a5bf" target="_blank">
+  <img src="https://img.shields.io/badge/Dev Blog-333333?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/baekend/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
 </a>
 </div>
 
