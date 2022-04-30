@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=백엔드%20개발이%20재밌는%20백민기입니다😄&fontSize=30)
 
+```JSX
+try {
+  your best;
+} catch (yourself) {
+  everytime you fail;
+}
+```
+
 👋 Hi there!   
 I'm a junior `Back-End engineer` who is eager to resolve inconvenience of daily life and business issue by Programming.   
 Looking forward to working as Server developer!
