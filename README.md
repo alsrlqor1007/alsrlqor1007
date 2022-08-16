@@ -13,12 +13,12 @@ I'm a junior `Back-End engineer` who is eager to resolve all the inconvenience o
 
 ### <p>📬 Contact Info</p>
 <div>
-<img src="https://img.shields.io/badge/skyup9393@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/skyup9393@gmail.com-EA4335?&logo=Gmail&logoColor=white"/>
 <a href="https://mingibaekend.notion.site/MINGI-s-TIL-Dev-Blog-c2c10c752e7a42c690d9e1d76bc7a5bf">
-  <img src="https://img.shields.io/badge/Blog-333333?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blog-333333?&logo=Notion&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/baekend/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?&logo=LinkedIn&logoColor=white"/>
 </a>
 </div>
 
@@ -26,23 +26,26 @@ I'm a junior `Back-End engineer` who is eager to resolve all the inconvenience o
 
 ### <p>🛠 Tech Stack</p>
 
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>   
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?&logo=Typescript&logoColor=white"/>   
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/TypeORM-FF6A00?style=flat-square&logo=TypeORM&logoColor=white"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/TypeORM-FF6A00?&logo=TypeORM&logoColor=white"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?&logo=Sequelize&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?&logo=PostgreSQL&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?&logo=Amazon AWS&logoColor=white"/>
 
 <br/>
 
 ### <p> ✏️  Currently Studying</p>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"/>
 
 <br/>
 
 ### <p>🔥 Want to Learn</p>
 
-<img src="https://img.shields.io/badge/Java-006600?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-006600?&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?&logo=Apache Kafka&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?&logo=NGINX&logoColor=white"/> 
 
 <br/>
 
