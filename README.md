@@ -32,19 +32,19 @@ I'm a junior `Back-End engineer` who is eager to resolve all the inconvenience o
 <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?&logo=PostgreSQL&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?&logo=Amazon AWS&logoColor=white"/>
 
 <br/>
 
 ### <p> ✏️  Currently Studying</p>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?&logo=Elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"/>
 
 <br/>
 
 ### <p>🔥 Want to Learn</p>
 
-<img src="https://img.shields.io/badge/Java-006600?&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-006600?&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?&logo=MongoDB&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?&logo=Apache Kafka&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?&logo=NGINX&logoColor=white"/> 
 
 <br/>
