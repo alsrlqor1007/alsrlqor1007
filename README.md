@@ -14,9 +14,6 @@ I'm a junior `Back-End engineer` who is eager to resolve all the inconvenience o
 ### <p>📬 Contact Info</p>
 <div>
 <img src="https://img.shields.io/badge/skyup9393@gmail.com-EA4335?&logo=Gmail&logoColor=white"/>
-<a href="https://mingibaekend.notion.site/MINGI-s-TIL-Dev-Blog-c2c10c752e7a42c690d9e1d76bc7a5bf">
-  <img src="https://img.shields.io/badge/Blog-333333?&logo=Notion&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/baekend/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?&logo=LinkedIn&logoColor=white"/>
 </a>
