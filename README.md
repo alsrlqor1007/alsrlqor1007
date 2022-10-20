@@ -45,7 +45,7 @@ I'm a junior `Back-End engineer` who is eager to resolve all the inconvenience o
 ### <p>🔥 Want to Learn</p>
 
 <img src="https://img.shields.io/badge/Java-006600?&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?&logo=MongoDB&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?&logo=Apache Kafka&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?&logo=NGINX&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?&logo=Apache Kafka&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?&logo=Jest&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?&logo=NGINX&logoColor=white"/> 
 
 <br/>
 
