@@ -35,7 +35,7 @@ I'm a junior `Back-End engineer` who is eager to resolve the inconvenience of da
 
 ### <p> ✏️  Currently Studying</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?&logo=NestJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?&logo=RabbitMQ&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?&logo=Selenium&logoColor=white"/>
 
 <br/>
 
