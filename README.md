@@ -23,23 +23,17 @@ I'm `Back-End engineer` who is eager to resolve the inconvenience of daily life 
 
 <br/>
 
-### <p>🛠 Tech Stack</p>
+### <p>🛠 Tech Stack in Experience</p>
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Node.js-339933?&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/TypeORM-FF6A00?&logo=TypeORM&logoColor=white"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?&logo=Sequelize&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/FastAPI-009688?&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?&logo=FastAPI&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?&logo=Elasticsearch&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?&logo=Elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?&logo=RabbitMQ&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?&logo=Amazon AWS&logoColor=white"/>
-
-<br/>
-
-### <p> ✏️  Currently Studying</p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?&logo=RabbitMQ&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?&logo=Elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Pytest-0A9EDC?&logo=Pytest&logoColor=white"/>
 
 <br/>
 
