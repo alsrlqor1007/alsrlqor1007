@@ -1,5 +1,6 @@
 👋 Hi there!   
-I'm `Back-End engineer` who is eager to resolve the inconvenience of daily life and business issue with programming.
+I'm working as an E-Commerce Backend engineer and I always have been eager to resolve the inconveniences of daily life and business issues with programming.
+
 
 <br/>
 
@@ -24,12 +25,6 @@ I'm `Back-End engineer` who is eager to resolve the inconvenience of daily life 
 <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?&logo=Elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?&logo=RabbitMQ&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?&logo=Amazon AWS&logoColor=white"/>
-
-<br/>
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=alsrlqor1007&show_icons=true&theme=aura_dark" />
-</div>
 
 <br/>
 
