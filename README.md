@@ -1,15 +1,5 @@
-```JSX
-try {
-  your best;
-} catch (yourself) {
-  everytime you fail;
-}
-```
-
 👋 Hi there!   
 I'm `Back-End engineer` who is eager to resolve the inconvenience of daily life and business issue with programming.
-
-낮엔 개발하고 밤엔 노래를 부르는 세일러문 개발자 백민기입니다.🌙
 
 <br/>
 
