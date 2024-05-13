@@ -1,5 +1,5 @@
 👋 Hi there!   
-I'm working as an E-Commerce Backend engineer and I always have been eager to resolve the inconveniences of daily life and business issues with programming.
+I'm working as an Backend engineer and I always have been eager to resolve the inconveniences of daily life and business issues with programming.
 
 
 <br/>
@@ -16,18 +16,18 @@ I'm working as an E-Commerce Backend engineer and I always have been eager to re
 
 ### <p>🛠 Tech Stack in Work Experience</p>
 
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?&logo=Javascript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?&logo=NestJS&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?&logo=Elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?&logo=RabbitMQ&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?&logo=RabbitMQ&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-844FBA?&logo=Terraform&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?&logo=Argo&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-844FBA?&logo=Terraform&logoColor=white"/> 
 
 <br/>
 
 ### <p>📚 Tech Stack in Study</p>
-<img src="https://img.shields.io/badge/Java & Spring-6DB33F?&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-844FBA?&logo=Terraform&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java & Spring-6DB33F?&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?&logo=Kubernetes&logoColor=white"/>
 
 
 <br/>
