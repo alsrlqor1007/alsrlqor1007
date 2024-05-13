@@ -1,5 +1,5 @@
 👋 Hi there!   
-I'm working as an Backend engineer and I always have been eager to resolve the inconveniences of daily life and business issues with programming.
+I'm working as Backend engineer and I always have been eager to resolve the inconveniences of daily life and business issues with programming.
 
 
 <br/>
